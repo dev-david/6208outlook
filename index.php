@@ -141,7 +141,7 @@
 										</header>
 									</article>
 									<article class="item">
-										<a href="images/toyonflyer.jpg" class="image full fancybox"><img src="images/toyonflyer.jpg" alt="" /></a>
+										<a href="images/flyer.jpg" class="image full fancybox"><img src="images/flyer.jpg" alt="" /></a>
 										<header>
 											<h3><strong>Modern Designs</strong></h3>
 										</header>
